@@ -38,7 +38,7 @@
       {
         "symbol_name": "어센틱심볼 : 세르니움",
         "symbol_level": 7,
-        "symbol_growth_count": 1942
+        "symbol_growth_count": 1962
       },
       {
         "symbol_name": "어센틱심볼 : 아르크스",
@@ -2195,6 +2195,35 @@
         },
         "scroll_upgrade": "0",
         "golden_hammer_flag": "미적용"
+      },
+      {
+        "item_equipment_part": "펜던트",
+        "item_name": "매커네이터 펜던트",
+        "potential_option_1": null,
+        "potential_option_2": null,
+        "potential_option_3": null,
+        "additional_potential_option_1": null,
+        "additional_potential_option_2": null,
+        "additional_potential_option_3": null,
+        "item_add_option": {
+          "str": "0",
+          "dex": "28",
+          "int": "0",
+          "luk": "0",
+          "max_hp": "0",
+          "max_mp": "1800",
+          "attack_power": "0",
+          "magic_power": "0",
+          "armor": "0",
+          "speed": "0",
+          "jump": "0",
+          "boss_damage": "0",
+          "damage": "0",
+          "all_stat": "4",
+          "equipment_level_decrease": 15
+        },
+        "scroll_upgrade": "0",
+        "golden_hammer_flag": "미적용"
       }
     ]
   },
@@ -2486,7 +2515,7 @@
       {
         "symbol_name": "아케인심볼 : 소멸의 여로",
         "symbol_level": 12,
-        "symbol_growth_count": 1828
+        "symbol_growth_count": 1876
       },
       {
         "symbol_name": "아케인심볼 : 츄츄 아일랜드",
@@ -3151,6 +3180,160 @@
     ]
   },
   {
+    "ocid": "9a4dc49ccc082c1109570df9c43ec165",
+    "character_name": "그몽초보자",
+    "character_class": "초보자",
+    "character_level": 231,
+    "custom_symbol": [],
+    "item_equipment": [
+      {
+        "item_equipment_part": "한벌옷",
+        "item_name": "브랜뉴 어드밴쳐슈트",
+        "potential_option_1": null,
+        "potential_option_2": null,
+        "potential_option_3": null,
+        "additional_potential_option_1": null,
+        "additional_potential_option_2": null,
+        "additional_potential_option_3": null,
+        "item_add_option": {
+          "str": "0",
+          "dex": "0",
+          "int": "0",
+          "luk": "0",
+          "max_hp": "0",
+          "max_mp": "0",
+          "attack_power": "0",
+          "magic_power": "0",
+          "armor": "0",
+          "speed": "0",
+          "jump": "0",
+          "boss_damage": "0",
+          "damage": "0",
+          "all_stat": "0",
+          "equipment_level_decrease": 0
+        },
+        "scroll_upgrade": "0",
+        "golden_hammer_flag": "미적용"
+      },
+      {
+        "item_equipment_part": "신발",
+        "item_name": "브랜뉴 어드밴쳐슈즈",
+        "potential_option_1": null,
+        "potential_option_2": null,
+        "potential_option_3": null,
+        "additional_potential_option_1": null,
+        "additional_potential_option_2": null,
+        "additional_potential_option_3": null,
+        "item_add_option": {
+          "str": "0",
+          "dex": "0",
+          "int": "0",
+          "luk": "0",
+          "max_hp": "0",
+          "max_mp": "0",
+          "attack_power": "0",
+          "magic_power": "0",
+          "armor": "0",
+          "speed": "0",
+          "jump": "0",
+          "boss_damage": "0",
+          "damage": "0",
+          "all_stat": "0",
+          "equipment_level_decrease": 0
+        },
+        "scroll_upgrade": "0",
+        "golden_hammer_flag": "미적용"
+      },
+      {
+        "item_equipment_part": "한손검",
+        "item_name": "검",
+        "potential_option_1": null,
+        "potential_option_2": null,
+        "potential_option_3": null,
+        "additional_potential_option_1": null,
+        "additional_potential_option_2": null,
+        "additional_potential_option_3": null,
+        "item_add_option": {
+          "str": "0",
+          "dex": "0",
+          "int": "0",
+          "luk": "0",
+          "max_hp": "0",
+          "max_mp": "0",
+          "attack_power": "0",
+          "magic_power": "0",
+          "armor": "0",
+          "speed": "0",
+          "jump": "0",
+          "boss_damage": "0",
+          "damage": "0",
+          "all_stat": "0",
+          "equipment_level_decrease": 0
+        },
+        "scroll_upgrade": "0",
+        "golden_hammer_flag": "미적용"
+      },
+      {
+        "item_equipment_part": "훈장",
+        "item_name": "견습 항해사",
+        "potential_option_1": null,
+        "potential_option_2": null,
+        "potential_option_3": null,
+        "additional_potential_option_1": null,
+        "additional_potential_option_2": null,
+        "additional_potential_option_3": null,
+        "item_add_option": {
+          "str": "0",
+          "dex": "0",
+          "int": "0",
+          "luk": "0",
+          "max_hp": "0",
+          "max_mp": "0",
+          "attack_power": "0",
+          "magic_power": "0",
+          "armor": "0",
+          "speed": "0",
+          "jump": "0",
+          "boss_damage": "0",
+          "damage": "0",
+          "all_stat": "0",
+          "equipment_level_decrease": 0
+        },
+        "scroll_upgrade": "0",
+        "golden_hammer_flag": "미적용"
+      },
+      {
+        "item_equipment_part": "벨트",
+        "item_name": "세일러 벨트",
+        "potential_option_1": null,
+        "potential_option_2": null,
+        "potential_option_3": null,
+        "additional_potential_option_1": null,
+        "additional_potential_option_2": null,
+        "additional_potential_option_3": null,
+        "item_add_option": {
+          "str": "0",
+          "dex": "0",
+          "int": "0",
+          "luk": "0",
+          "max_hp": "0",
+          "max_mp": "0",
+          "attack_power": "0",
+          "magic_power": "0",
+          "armor": "0",
+          "speed": "0",
+          "jump": "0",
+          "boss_damage": "0",
+          "damage": "0",
+          "all_stat": "0",
+          "equipment_level_decrease": 0
+        },
+        "scroll_upgrade": "0",
+        "golden_hammer_flag": "미적용"
+      }
+    ]
+  },
+  {
     "ocid": "91b6a36f184c33a43f8a8b6776b4d32a",
     "character_name": "그몽히어로",
     "character_class": "히어로",
@@ -3159,7 +3342,7 @@
       {
         "symbol_name": "아케인심볼 : 소멸의 여로",
         "symbol_level": 7,
-        "symbol_growth_count": 1588
+        "symbol_growth_count": 1612
       },
       {
         "symbol_name": "아케인심볼 : 츄츄 아일랜드",
@@ -3649,7 +3832,7 @@
       },
       {
         "item_equipment_part": "훈장",
-        "item_name": "메이플 X 귀멸의 칼날",
+        "item_name": "귀살대",
         "potential_option_1": null,
         "potential_option_2": null,
         "potential_option_3": null,
@@ -3882,160 +4065,6 @@
     ]
   },
   {
-    "ocid": "9a4dc49ccc082c1109570df9c43ec165",
-    "character_name": "그몽초보자",
-    "character_class": "초보자",
-    "character_level": 230,
-    "custom_symbol": [],
-    "item_equipment": [
-      {
-        "item_equipment_part": "한벌옷",
-        "item_name": "브랜뉴 어드밴쳐슈트",
-        "potential_option_1": null,
-        "potential_option_2": null,
-        "potential_option_3": null,
-        "additional_potential_option_1": null,
-        "additional_potential_option_2": null,
-        "additional_potential_option_3": null,
-        "item_add_option": {
-          "str": "0",
-          "dex": "0",
-          "int": "0",
-          "luk": "0",
-          "max_hp": "0",
-          "max_mp": "0",
-          "attack_power": "0",
-          "magic_power": "0",
-          "armor": "0",
-          "speed": "0",
-          "jump": "0",
-          "boss_damage": "0",
-          "damage": "0",
-          "all_stat": "0",
-          "equipment_level_decrease": 0
-        },
-        "scroll_upgrade": "0",
-        "golden_hammer_flag": "미적용"
-      },
-      {
-        "item_equipment_part": "신발",
-        "item_name": "브랜뉴 어드밴쳐슈즈",
-        "potential_option_1": null,
-        "potential_option_2": null,
-        "potential_option_3": null,
-        "additional_potential_option_1": null,
-        "additional_potential_option_2": null,
-        "additional_potential_option_3": null,
-        "item_add_option": {
-          "str": "0",
-          "dex": "0",
-          "int": "0",
-          "luk": "0",
-          "max_hp": "0",
-          "max_mp": "0",
-          "attack_power": "0",
-          "magic_power": "0",
-          "armor": "0",
-          "speed": "0",
-          "jump": "0",
-          "boss_damage": "0",
-          "damage": "0",
-          "all_stat": "0",
-          "equipment_level_decrease": 0
-        },
-        "scroll_upgrade": "0",
-        "golden_hammer_flag": "미적용"
-      },
-      {
-        "item_equipment_part": "한손검",
-        "item_name": "검",
-        "potential_option_1": null,
-        "potential_option_2": null,
-        "potential_option_3": null,
-        "additional_potential_option_1": null,
-        "additional_potential_option_2": null,
-        "additional_potential_option_3": null,
-        "item_add_option": {
-          "str": "0",
-          "dex": "0",
-          "int": "0",
-          "luk": "0",
-          "max_hp": "0",
-          "max_mp": "0",
-          "attack_power": "0",
-          "magic_power": "0",
-          "armor": "0",
-          "speed": "0",
-          "jump": "0",
-          "boss_damage": "0",
-          "damage": "0",
-          "all_stat": "0",
-          "equipment_level_decrease": 0
-        },
-        "scroll_upgrade": "0",
-        "golden_hammer_flag": "미적용"
-      },
-      {
-        "item_equipment_part": "훈장",
-        "item_name": "견습 항해사",
-        "potential_option_1": null,
-        "potential_option_2": null,
-        "potential_option_3": null,
-        "additional_potential_option_1": null,
-        "additional_potential_option_2": null,
-        "additional_potential_option_3": null,
-        "item_add_option": {
-          "str": "0",
-          "dex": "0",
-          "int": "0",
-          "luk": "0",
-          "max_hp": "0",
-          "max_mp": "0",
-          "attack_power": "0",
-          "magic_power": "0",
-          "armor": "0",
-          "speed": "0",
-          "jump": "0",
-          "boss_damage": "0",
-          "damage": "0",
-          "all_stat": "0",
-          "equipment_level_decrease": 0
-        },
-        "scroll_upgrade": "0",
-        "golden_hammer_flag": "미적용"
-      },
-      {
-        "item_equipment_part": "벨트",
-        "item_name": "세일러 벨트",
-        "potential_option_1": null,
-        "potential_option_2": null,
-        "potential_option_3": null,
-        "additional_potential_option_1": null,
-        "additional_potential_option_2": null,
-        "additional_potential_option_3": null,
-        "item_add_option": {
-          "str": "0",
-          "dex": "0",
-          "int": "0",
-          "luk": "0",
-          "max_hp": "0",
-          "max_mp": "0",
-          "attack_power": "0",
-          "magic_power": "0",
-          "armor": "0",
-          "speed": "0",
-          "jump": "0",
-          "boss_damage": "0",
-          "damage": "0",
-          "all_stat": "0",
-          "equipment_level_decrease": 0
-        },
-        "scroll_upgrade": "0",
-        "golden_hammer_flag": "미적용"
-      }
-    ]
-  },
-  {
     "ocid": "85a25fb879bd59e15565e02c5966b35b",
     "character_name": "그몽팬텀",
     "character_class": "팬텀",
@@ -4049,17 +4078,17 @@
       {
         "symbol_name": "아케인심볼 : 츄츄 아일랜드",
         "symbol_level": 18,
-        "symbol_growth_count": 478
+        "symbol_growth_count": 550
       },
       {
         "symbol_name": "아케인심볼 : 레헬른",
         "symbol_level": 1,
-        "symbol_growth_count": 69
+        "symbol_growth_count": 141
       },
       {
         "symbol_name": "아케인심볼 : 아르카나",
         "symbol_level": 7,
-        "symbol_growth_count": 25
+        "symbol_growth_count": 121
       }
     ],
     "item_equipment": [
@@ -19678,6 +19707,35 @@
         "golden_hammer_flag": "미적용"
       },
       {
+        "item_equipment_part": "기계 심장",
+        "item_name": "리튬 하트",
+        "potential_option_1": null,
+        "potential_option_2": null,
+        "potential_option_3": null,
+        "additional_potential_option_1": null,
+        "additional_potential_option_2": null,
+        "additional_potential_option_3": null,
+        "item_add_option": {
+          "str": "0",
+          "dex": "0",
+          "int": "0",
+          "luk": "0",
+          "max_hp": "0",
+          "max_mp": "0",
+          "attack_power": "0",
+          "magic_power": "0",
+          "armor": "0",
+          "speed": "0",
+          "jump": "0",
+          "boss_damage": "0",
+          "damage": "0",
+          "all_stat": "0",
+          "equipment_level_decrease": 0
+        },
+        "scroll_upgrade": "0",
+        "golden_hammer_flag": "미적용"
+      },
+      {
         "item_equipment_part": "뱃지",
         "item_name": "크리스탈 웬투스 뱃지",
         "potential_option_1": null,
@@ -22267,6 +22325,35 @@
           "equipment_level_decrease": 0
         },
         "scroll_upgrade": "1",
+        "golden_hammer_flag": "미적용"
+      },
+      {
+        "item_equipment_part": "기계 심장",
+        "item_name": "리튬 하트",
+        "potential_option_1": null,
+        "potential_option_2": null,
+        "potential_option_3": null,
+        "additional_potential_option_1": null,
+        "additional_potential_option_2": null,
+        "additional_potential_option_3": null,
+        "item_add_option": {
+          "str": "0",
+          "dex": "0",
+          "int": "0",
+          "luk": "0",
+          "max_hp": "0",
+          "max_mp": "0",
+          "attack_power": "0",
+          "magic_power": "0",
+          "armor": "0",
+          "speed": "0",
+          "jump": "0",
+          "boss_damage": "0",
+          "damage": "0",
+          "all_stat": "0",
+          "equipment_level_decrease": 0
+        },
+        "scroll_upgrade": "0",
         "golden_hammer_flag": "미적용"
       },
       {
