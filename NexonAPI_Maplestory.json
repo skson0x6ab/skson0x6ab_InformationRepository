@@ -2308,17 +2308,22 @@
       {
         "symbol_name": "아케인심볼 : 츄츄 아일랜드",
         "symbol_level": 18,
-        "symbol_growth_count": 574
+        "symbol_growth_count": 598
       },
       {
         "symbol_name": "아케인심볼 : 레헬른",
         "symbol_level": 1,
-        "symbol_growth_count": 165
+        "symbol_growth_count": 189
       },
       {
         "symbol_name": "아케인심볼 : 아르카나",
         "symbol_level": 7,
-        "symbol_growth_count": 145
+        "symbol_growth_count": 169
+      },
+      {
+        "symbol_name": "아케인심볼 : 모라스",
+        "symbol_level": 7,
+        "symbol_growth_count": 25
       }
     ],
     "item_equipment": [
@@ -3673,7 +3678,7 @@
       },
       {
         "item_equipment_part": "훈장",
-        "item_name": "마스터 모험가의 훈장",
+        "item_name": "세계수의 수호자",
         "potential_option_1": null,
         "potential_option_2": null,
         "potential_option_3": null,
