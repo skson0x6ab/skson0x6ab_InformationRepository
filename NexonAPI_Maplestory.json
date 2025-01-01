@@ -38,7 +38,7 @@
       {
         "symbol_name": "어센틱심볼 : 세르니움",
         "symbol_level": 7,
-        "symbol_growth_count": 1962
+        "symbol_growth_count": 2042
       },
       {
         "symbol_name": "어센틱심볼 : 아르크스",
@@ -379,11 +379,11 @@
       {
         "item_equipment_part": "반지",
         "item_name": "가디언 엔젤 링",
-        "potential_option_1": "STR : +9%",
-        "potential_option_2": "STR : +6%",
-        "potential_option_3": "DEX : +6%",
-        "additional_potential_option_1": "이동속도 : +6",
-        "additional_potential_option_2": "방어력 : +60",
+        "potential_option_1": "LUK : +9%",
+        "potential_option_2": "INT : +6%",
+        "potential_option_3": null,
+        "additional_potential_option_1": null,
+        "additional_potential_option_2": null,
         "additional_potential_option_3": null,
         "item_add_option": {
           "str": "0",
@@ -402,7 +402,7 @@
           "all_stat": "0",
           "equipment_level_decrease": 0
         },
-        "scroll_upgrade": "1",
+        "scroll_upgrade": "0",
         "golden_hammer_flag": "미적용"
       },
       {
