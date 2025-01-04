@@ -2228,77 +2228,10 @@
     ]
   },
   {
-    "ocid": "4aa2fbc9bb7e9e873ab613c07905327b",
-    "character_name": "그몽시티즌",
-    "character_class": "시티즌",
-    "character_level": 234,
-    "custom_symbol": [],
-    "item_equipment": [
-      {
-        "item_equipment_part": "한벌옷",
-        "item_name": "레드 오버롤 미니",
-        "potential_option_1": null,
-        "potential_option_2": null,
-        "potential_option_3": null,
-        "additional_potential_option_1": null,
-        "additional_potential_option_2": null,
-        "additional_potential_option_3": null,
-        "item_add_option": {
-          "str": "0",
-          "dex": "0",
-          "int": "0",
-          "luk": "0",
-          "max_hp": "0",
-          "max_mp": "0",
-          "attack_power": "0",
-          "magic_power": "0",
-          "armor": "0",
-          "speed": "0",
-          "jump": "0",
-          "boss_damage": "0",
-          "damage": "0",
-          "all_stat": "0",
-          "equipment_level_decrease": 0
-        },
-        "scroll_upgrade": "0",
-        "golden_hammer_flag": "미적용"
-      },
-      {
-        "item_equipment_part": "한손둔기",
-        "item_name": "몽둥이",
-        "potential_option_1": null,
-        "potential_option_2": null,
-        "potential_option_3": null,
-        "additional_potential_option_1": null,
-        "additional_potential_option_2": null,
-        "additional_potential_option_3": null,
-        "item_add_option": {
-          "str": "0",
-          "dex": "0",
-          "int": "0",
-          "luk": "0",
-          "max_hp": "0",
-          "max_mp": "0",
-          "attack_power": "0",
-          "magic_power": "0",
-          "armor": "0",
-          "speed": "0",
-          "jump": "0",
-          "boss_damage": "0",
-          "damage": "0",
-          "all_stat": "0",
-          "equipment_level_decrease": 0
-        },
-        "scroll_upgrade": "0",
-        "golden_hammer_flag": "미적용"
-      }
-    ]
-  },
-  {
     "ocid": "85a25fb879bd59e15565e02c5966b35b",
     "character_name": "그몽팬텀",
     "character_class": "팬텀",
-    "character_level": 232,
+    "character_level": 237,
     "custom_symbol": [
       {
         "symbol_name": "아케인심볼 : 소멸의 여로",
@@ -2308,22 +2241,27 @@
       {
         "symbol_name": "아케인심볼 : 츄츄 아일랜드",
         "symbol_level": 18,
-        "symbol_growth_count": 646
+        "symbol_growth_count": 707
       },
       {
         "symbol_name": "아케인심볼 : 레헬른",
         "symbol_level": 1,
-        "symbol_growth_count": 237
+        "symbol_growth_count": 422
       },
       {
         "symbol_name": "아케인심볼 : 아르카나",
         "symbol_level": 7,
-        "symbol_growth_count": 217
+        "symbol_growth_count": 265
       },
       {
         "symbol_name": "아케인심볼 : 모라스",
         "symbol_level": 7,
-        "symbol_growth_count": 73
+        "symbol_growth_count": 121
+      },
+      {
+        "symbol_name": "아케인심볼 : 에스페라",
+        "symbol_level": 7,
+        "symbol_growth_count": 1
       }
     ],
     "item_equipment": [
@@ -2985,6 +2923,73 @@
           "magic_power": "0",
           "armor": "0",
           "speed": "4",
+          "jump": "0",
+          "boss_damage": "0",
+          "damage": "0",
+          "all_stat": "0",
+          "equipment_level_decrease": 0
+        },
+        "scroll_upgrade": "0",
+        "golden_hammer_flag": "미적용"
+      }
+    ]
+  },
+  {
+    "ocid": "4aa2fbc9bb7e9e873ab613c07905327b",
+    "character_name": "그몽시티즌",
+    "character_class": "시티즌",
+    "character_level": 234,
+    "custom_symbol": [],
+    "item_equipment": [
+      {
+        "item_equipment_part": "한벌옷",
+        "item_name": "레드 오버롤 미니",
+        "potential_option_1": null,
+        "potential_option_2": null,
+        "potential_option_3": null,
+        "additional_potential_option_1": null,
+        "additional_potential_option_2": null,
+        "additional_potential_option_3": null,
+        "item_add_option": {
+          "str": "0",
+          "dex": "0",
+          "int": "0",
+          "luk": "0",
+          "max_hp": "0",
+          "max_mp": "0",
+          "attack_power": "0",
+          "magic_power": "0",
+          "armor": "0",
+          "speed": "0",
+          "jump": "0",
+          "boss_damage": "0",
+          "damage": "0",
+          "all_stat": "0",
+          "equipment_level_decrease": 0
+        },
+        "scroll_upgrade": "0",
+        "golden_hammer_flag": "미적용"
+      },
+      {
+        "item_equipment_part": "한손둔기",
+        "item_name": "몽둥이",
+        "potential_option_1": null,
+        "potential_option_2": null,
+        "potential_option_3": null,
+        "additional_potential_option_1": null,
+        "additional_potential_option_2": null,
+        "additional_potential_option_3": null,
+        "item_add_option": {
+          "str": "0",
+          "dex": "0",
+          "int": "0",
+          "luk": "0",
+          "max_hp": "0",
+          "max_mp": "0",
+          "attack_power": "0",
+          "magic_power": "0",
+          "armor": "0",
+          "speed": "0",
           "jump": "0",
           "boss_damage": "0",
           "damage": "0",
